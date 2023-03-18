@@ -1,0 +1,1627 @@
+[
+    {
+        "No": "1",
+        "Customer Name": "A L P GUPTA",
+        "Address": "CHAKAN",
+        "Contact1": 9370720481,
+        "Contact2": "-",
+        "Balance": 20359
+    },
+    {
+        "No": "2",
+        "Customer Name": "AADIL",
+        "Address": "DEHUROAD",
+        "Contact1": 7219785138,
+        "Contact2": "-",
+        "Balance": 6692
+    },
+    {
+        "No": "3",
+        "Customer Name": "AADIL FYSHAN",
+        "Address": "NIGDI",
+        "Contact1": 7040200077,
+        "Contact2": "-",
+        "Balance": 495
+    },
+    {
+        "No": "4",
+        "Customer Name": "ABBASH BHAI",
+        "Address": "ALANDI",
+        "Contact1": 8888679302,
+        "Contact2": "-",
+        "Balance": 18908
+    },
+    {
+        "No": "5",
+        "Customer Name": "ABDUL KALAM ANSARI",
+        "Address": "BHOSRI",
+        "Contact1": 9022141735,
+        "Contact2": "-",
+        "Balance": 508
+    },
+    {
+        "No": "6",
+        "Customer Name": "ABDUL MANNAN",
+        "Address": "PIMPRI",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 2387
+    },
+    {
+        "No": "7",
+        "Customer Name": "AHMAD BHAI",
+        "Address": "PIMPRI",
+        "Contact1": 8975329654,
+        "Contact2": "-",
+        "Balance": 16078
+    },
+    {
+        "No": "8",
+        "Customer Name": "AKIL SHAH",
+        "Address": "CHINCHWAD",
+        "Contact1": 9156173544,
+        "Contact2": "-",
+        "Balance": 4004
+    },
+    {
+        "No": "9",
+        "Customer Name": "ALAUDDIN BHAI",
+        "Address": "PIMPRI",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 7672
+    },
+    {
+        "No": "10",
+        "Customer Name": "AMANULLAH",
+        "Address": "PIMPRI",
+        "Contact1": 9325251703,
+        "Contact2": "-",
+        "Balance": 4488
+    },
+    {
+        "No": "11",
+        "Customer Name": "AMIR BHAI",
+        "Address": "PIMPRI",
+        "Contact1": 8149756222,
+        "Contact2": "-",
+        "Balance": 30677
+    },
+    {
+        "No": "12",
+        "Customer Name": "AMRIT",
+        "Address": "PIMPRI MARKET",
+        "Contact1": 9309396362,
+        "Contact2": "-",
+        "Balance": 638
+    },
+    {
+        "No": "13",
+        "Customer Name": "ANIL",
+        "Address": "ALANDI",
+        "Contact1": 9604403858,
+        "Contact2": "-",
+        "Balance": 7465
+    },
+    {
+        "No": "14",
+        "Customer Name": "ANISUL",
+        "Address": "PIMPRI",
+        "Contact1": 9307069127,
+        "Contact2": "-",
+        "Balance": 13796
+    },
+    {
+        "No": "15",
+        "Customer Name": "ANSARUL",
+        "Address": "PIMPRI",
+        "Contact1": 9518924533,
+        "Contact2": 8624017765,
+        "Balance": 2616
+    },
+    {
+        "No": "16",
+        "Customer Name": "ANWAR BHAI",
+        "Address": "NEPALI MARKET",
+        "Contact1": 8651370855,
+        "Contact2": "-",
+        "Balance": 8973
+    },
+    {
+        "No": "17",
+        "Customer Name": "ARMAN BHAI",
+        "Address": "DEHUROAD",
+        "Contact1": 8830265285,
+        "Contact2": "-",
+        "Balance": 6788
+    },
+    {
+        "No": "18",
+        "Customer Name": "ASHIRWAD COLLECTION",
+        "Address": "SHIKRAPUR",
+        "Contact1": 9881855475,
+        "Contact2": 9890892313,
+        "Balance": 10000
+    },
+    {
+        "No": "19",
+        "Customer Name": "ASHLAM MAMA",
+        "Address": "PIMPRI",
+        "Contact1": 9518904479,
+        "Contact2": "-",
+        "Balance": 4986
+    },
+    {
+        "No": "20",
+        "Customer Name": "ASIF SABRA",
+        "Address": "BHOSRI",
+        "Contact1": 9172400201,
+        "Contact2": "-",
+        "Balance": 6749
+    },
+    {
+        "No": "21",
+        "Customer Name": "ASLAM KHAN",
+        "Address": "CHAKAN",
+        "Contact1": 9112411183,
+        "Contact2": "-",
+        "Balance": 1777
+    },
+    {
+        "No": "22",
+        "Customer Name": "AZHAR BHAI",
+        "Address": "PIMPRI",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 71326
+    },
+    {
+        "No": "23",
+        "Customer Name": "AZIM BHAI",
+        "Address": "BHOSRI",
+        "Contact1": 8975759494,
+        "Contact2": "-",
+        "Balance": 2440
+    },
+    {
+        "No": "24",
+        "Customer Name": "AZIZ CHOUDHARY",
+        "Address": "CHIKHLI",
+        "Contact1": 7559329913,
+        "Contact2": "-",
+        "Balance": 583
+    },
+    {
+        "No": "25",
+        "Customer Name": "BABLU BHAI",
+        "Address": "BHOSRI",
+        "Contact1": 7767999288,
+        "Contact2": "-",
+        "Balance": 381
+    },
+    {
+        "No": "26",
+        "Customer Name": "BALA JI FASHION",
+        "Address": "CHAKAN",
+        "Contact1": 9735363886,
+        "Contact2": 6297033545,
+        "Balance": 45
+    },
+    {
+        "No": "27",
+        "Customer Name": "BALAJI COLLECTION",
+        "Address": "BHOSRI",
+        "Contact1": 9881237192,
+        "Contact2": "-",
+        "Balance": 134
+    },
+    {
+        "No": "28",
+        "Customer Name": "BALAJI TEXTILE",
+        "Address": "MUNDWA",
+        "Contact1": 7972500650,
+        "Contact2": 7620850874,
+        "Balance": 15331
+    },
+    {
+        "No": "29",
+        "Customer Name": "BANTI BHAI",
+        "Address": "KHADKI",
+        "Contact1": 7765077663,
+        "Contact2": "-",
+        "Balance": 2010
+    },
+    {
+        "No": "30",
+        "Customer Name": "BARIK BHAI",
+        "Address": "YADWADA",
+        "Contact1": 8830739912,
+        "Contact2": 7499072070,
+        "Balance": 9070
+    },
+    {
+        "No": "31",
+        "Customer Name": "BASHIR BHAI",
+        "Address": "PIMPRI",
+        "Contact1": 9765817680,
+        "Contact2": "-",
+        "Balance": 16914
+    },
+    {
+        "No": "32",
+        "Customer Name": "BHAGYA SHREE",
+        "Address": "PIMPRI GAO",
+        "Contact1": 9970659643,
+        "Contact2": "-",
+        "Balance": 28131
+    },
+    {
+        "No": "33",
+        "Customer Name": "BHAWANI COLLECTION",
+        "Address": "DIGHI",
+        "Contact1": 7058169195,
+        "Contact2": "-",
+        "Balance": 113835
+    },
+    {
+        "No": "34",
+        "Customer Name": "BHAWANI COLLECTION 2",
+        "Address": "TALEGAON",
+        "Contact1": 8329480904,
+        "Contact2": "-",
+        "Balance": 1457
+    },
+    {
+        "No": "35",
+        "Customer Name": "CASH",
+        "Address": "-",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 0
+    },
+    {
+        "No": "36",
+        "Customer Name": "CHANDNI GARMENTS",
+        "Address": "ARORA",
+        "Contact1": 8856054757,
+        "Contact2": "-",
+        "Balance": 0
+    },
+    {
+        "No": "37",
+        "Customer Name": "CHOTA PINTU",
+        "Address": "CHAKAN",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 254
+    },
+    {
+        "No": "38",
+        "Customer Name": "CHOTE ABDUS SALAM",
+        "Address": "PIMPRI",
+        "Contact1": 9359747452,
+        "Contact2": "-",
+        "Balance": 738
+    },
+    {
+        "No": "39",
+        "Customer Name": "CHUDHRY COLLECTIN",
+        "Address": "MORE BASTI",
+        "Contact1": 9764801023,
+        "Contact2": "-",
+        "Balance": 11574
+    },
+    {
+        "No": "40",
+        "Customer Name": "DAYANAND SARTHAK COLLECTION",
+        "Address": "MOSHI",
+        "Contact1": 8826381058,
+        "Contact2": 9822318831,
+        "Balance": 31279
+    },
+    {
+        "No": "41",
+        "Customer Name": "DEEPAK PIMPRI",
+        "Address": "PIMPRI",
+        "Contact1": 7620528987,
+        "Contact2": "-",
+        "Balance": 1993
+    },
+    {
+        "No": "42",
+        "Customer Name": "DENASH BHAI",
+        "Address": "DANGE CHOK",
+        "Contact1": 9921951962,
+        "Contact2": "-",
+        "Balance": 1658
+    },
+    {
+        "No": "43",
+        "Customer Name": "DIGAMBRA COLLECTION",
+        "Address": "CHIKHLI",
+        "Contact1": 9689496621,
+        "Contact2": "-",
+        "Balance": 500
+    },
+    {
+        "No": "44",
+        "Customer Name": "DIPAK COLLECTION",
+        "Address": "DHAPURI",
+        "Contact1": 9960286389,
+        "Contact2": "-",
+        "Balance": 10046
+    },
+    {
+        "No": "45",
+        "Customer Name": "FAROCK BHAI",
+        "Address": "MORE BASTI",
+        "Contact1": 7020901116,
+        "Contact2": "-",
+        "Balance": 80888
+    },
+    {
+        "No": "46",
+        "Customer Name": "FIROZ BHAI",
+        "Address": "PIMPRI",
+        "Contact1": "9762878270/",
+        "Contact2": "-",
+        "Balance": 21619
+    },
+    {
+        "No": "47",
+        "Customer Name": "GANRAAJ COLLECTION",
+        "Address": "KALE WADE PHATA",
+        "Contact1": 9922533361,
+        "Contact2": "-",
+        "Balance": 0
+    },
+    {
+        "No": "48",
+        "Customer Name": "GORAKH BHAI",
+        "Address": "MORE BASTI",
+        "Contact1": 7350161241,
+        "Contact2": "-",
+        "Balance": 38768
+    },
+    {
+        "No": "49",
+        "Customer Name": "GUJRAT SARI SELL",
+        "Address": "RAJ GURO NAGAR",
+        "Contact1": 9527021193,
+        "Contact2": "-",
+        "Balance": 1757
+    },
+    {
+        "No": "50",
+        "Customer Name": "GURU DEV TRADERS",
+        "Address": "PIMPRI",
+        "Contact1": 9850530977,
+        "Contact2": "-",
+        "Balance": 0
+    },
+    {
+        "No": "51",
+        "Customer Name": "HAIMANT",
+        "Address": "PIMPRI",
+        "Contact1": 9657810724,
+        "Contact2": "-",
+        "Balance": 14893
+    },
+    {
+        "No": "52",
+        "Customer Name": "HAM SINGH",
+        "Address": "CHIKHLI",
+        "Contact1": 7507604656,
+        "Contact2": 7249346067,
+        "Balance": 10623
+    },
+    {
+        "No": "53",
+        "Customer Name": "HANJLA RAZI",
+        "Address": "PIMPRI",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 4500
+    },
+    {
+        "No": "54",
+        "Customer Name": "HASAN BABA",
+        "Address": "PIMPRI",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 1080
+    },
+    {
+        "No": "55",
+        "Customer Name": "HASHIB BHAI",
+        "Address": "CHAKAN",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 4248
+    },
+    {
+        "No": "56",
+        "Customer Name": "HASIBUL BHAI",
+        "Address": "PIMPRI",
+        "Contact1": 9834508170,
+        "Contact2": "-",
+        "Balance": 198270
+    },
+    {
+        "No": "57",
+        "Customer Name": "HOJER",
+        "Address": "YADWADA",
+        "Contact1": 9307134355,
+        "Contact2": "-",
+        "Balance": 16302
+    },
+    {
+        "No": "58",
+        "Customer Name": "HUSAIN BHAI",
+        "Address": "PIMPRI",
+        "Contact1": 9156475310,
+        "Contact2": 7977152591,
+        "Balance": 100736
+    },
+    {
+        "No": "59",
+        "Customer Name": "HUSNAID",
+        "Address": "PIMPRI",
+        "Contact1": 8857939554,
+        "Contact2": "-",
+        "Balance": 21385
+    },
+    {
+        "No": "60",
+        "Customer Name": "IMRAAN BHAI",
+        "Address": "PIMPRI",
+        "Contact1": 7040217878,
+        "Contact2": "-",
+        "Balance": 71904
+    },
+    {
+        "No": "61",
+        "Customer Name": "IZRAEL MAMA",
+        "Address": "PIMPRI",
+        "Contact1": 7841994300,
+        "Contact2": 8055610287,
+        "Balance": 18423
+    },
+    {
+        "No": "62",
+        "Customer Name": "JABIR BHAI",
+        "Address": "YADWADA",
+        "Contact1": 8237570516,
+        "Contact2": "-",
+        "Balance": 23210
+    },
+    {
+        "No": "63",
+        "Customer Name": "JAMER SHAIKH LIBAS COLLECTION",
+        "Address": "DEHUROAD",
+        "Contact1": 7588071687,
+        "Contact2": "-",
+        "Balance": 7238
+    },
+    {
+        "No": "64",
+        "Customer Name": "JANTA NIGDI",
+        "Address": "NIGDI",
+        "Contact1": 8503049126,
+        "Contact2": "-",
+        "Balance": 2101
+    },
+    {
+        "No": "65",
+        "Customer Name": "JAY DRESRESSES",
+        "Address": "NIGDI",
+        "Contact1": 9763779576,
+        "Contact2": "-",
+        "Balance": 15785
+    },
+    {
+        "No": "66",
+        "Customer Name": "JAY RAM DEV SADI CENTER",
+        "Address": "VISHANT WADI",
+        "Contact1": 7276550694,
+        "Contact2": "-",
+        "Balance": 34377
+    },
+    {
+        "No": "67",
+        "Customer Name": "JENNY COLLECTION",
+        "Address": "DHAWDE WASTI BHOSRI",
+        "Contact1": 8830472131,
+        "Contact2": "-",
+        "Balance": 0
+    },
+    {
+        "No": "68",
+        "Customer Name": "JILANI BHAI",
+        "Address": "YADWADA",
+        "Contact1": 8329899495,
+        "Contact2": "-",
+        "Balance": 86861
+    },
+    {
+        "No": "69",
+        "Customer Name": "JOLLY GARMENTS",
+        "Address": "CHAKAN ROAD TA KHED DIST OUNE",
+        "Contact1": 9769544799,
+        "Contact2": 789184259,
+        "Balance": 0
+    },
+    {
+        "No": "70",
+        "Customer Name": "JP YADAV",
+        "Address": "BHOSRI",
+        "Contact1": 9960029524,
+        "Contact2": "-",
+        "Balance": 5205
+    },
+    {
+        "No": "71",
+        "Customer Name": "JUNAID BHAI",
+        "Address": "MORE BASTI",
+        "Contact1": 8484825548,
+        "Contact2": "-",
+        "Balance": 35857
+    },
+    {
+        "No": "72",
+        "Customer Name": "KAIF BINDHI",
+        "Address": "PIMPRI",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 3570
+    },
+    {
+        "No": "73",
+        "Customer Name": "KAILASH BHAI",
+        "Address": "KALEWADI",
+        "Contact1": 9325304709,
+        "Contact2": 8888100753,
+        "Balance": 54073
+    },
+    {
+        "No": "74",
+        "Customer Name": "KAMAL",
+        "Address": "NADHE GAO",
+        "Contact1": 9156094188,
+        "Contact2": 8769992507,
+        "Balance": 0
+    },
+    {
+        "No": "75",
+        "Customer Name": "KAPUR YADAV",
+        "Address": "KALEWADI",
+        "Contact1": 7030792628,
+        "Contact2": "-",
+        "Balance": 8158
+    },
+    {
+        "No": "76",
+        "Customer Name": "KRISHNA GARMENTS",
+        "Address": "BHOSRI",
+        "Contact1": 7756884077,
+        "Contact2": 7378320564,
+        "Balance": 3969
+    },
+    {
+        "No": "77",
+        "Customer Name": "kriti collection",
+        "Address": "NEHRU NAGAR",
+        "Contact1": 9892544794,
+        "Contact2": "-",
+        "Balance": 992
+    },
+    {
+        "No": "78",
+        "Customer Name": "KUTUMB COLLECTION",
+        "Address": "PIMPRI",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 0
+    },
+    {
+        "No": "79",
+        "Customer Name": "latif bhai",
+        "Address": "PIMPRI",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 808
+    },
+    {
+        "No": "80",
+        "Customer Name": "MAA BHAGWATI COLLECTION",
+        "Address": "BALEWADI",
+        "Contact1": 8421172117,
+        "Contact2": "-",
+        "Balance": 0
+    },
+    {
+        "No": "81",
+        "Customer Name": "MAA COLLECTION",
+        "Address": "ALANDI",
+        "Contact1": 7387760779,
+        "Contact2": "-",
+        "Balance": 0
+    },
+    {
+        "No": "82",
+        "Customer Name": "MADHAV COLLECTION",
+        "Address": "ALANDI",
+        "Contact1": 9823648956,
+        "Contact2": "-",
+        "Balance": 211
+    },
+    {
+        "No": "83",
+        "Customer Name": "MAHA DEV",
+        "Address": "PIMPRI",
+        "Contact1": 8766447831,
+        "Contact2": "-",
+        "Balance": 5137
+    },
+    {
+        "No": "84",
+        "Customer Name": "MAHADWO CALATAN",
+        "Address": "PIRENGUR",
+        "Contact1": 8015745125,
+        "Contact2": 9043121669,
+        "Balance": 1638
+    },
+    {
+        "No": "85",
+        "Customer Name": "MAHBOOB",
+        "Address": "PIMPRI",
+        "Contact1": 7011202060,
+        "Contact2": 9582929392,
+        "Balance": 2014
+    },
+    {
+        "No": "86",
+        "Customer Name": "MALKHA SETH",
+        "Address": "PIMPRI",
+        "Contact1": 9765981212,
+        "Contact2": "-",
+        "Balance": 48653
+    },
+    {
+        "No": "87",
+        "Customer Name": "MAMUN",
+        "Address": "PIMPRI",
+        "Contact1": 8766597238,
+        "Contact2": "-",
+        "Balance": 289544
+    },
+    {
+        "No": "88",
+        "Customer Name": "MANNU SETH",
+        "Address": "PIMPRI",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 11557
+    },
+    {
+        "No": "89",
+        "Customer Name": "MANOJ YADAV",
+        "Address": "KOTAE BASTE",
+        "Contact1": 8380826296,
+        "Contact2": 7030415143,
+        "Balance": 927
+    },
+    {
+        "No": "90",
+        "Customer Name": "MANTISHAT BHAI",
+        "Address": "CHAKAN",
+        "Contact1": 9518993006,
+        "Contact2": "-",
+        "Balance": 22174
+    },
+    {
+        "No": "91",
+        "Customer Name": "MASHA ALLAH COLLECTION",
+        "Address": "KONDHWA",
+        "Contact1": 7020836056,
+        "Contact2": 9890981503,
+        "Balance": 4225
+    },
+    {
+        "No": "92",
+        "Customer Name": "MASTAN BINDHI",
+        "Address": "PIMPRI",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 1750
+    },
+    {
+        "No": "93",
+        "Customer Name": "MATUBA COLLECTION",
+        "Address": "HINJEWADI",
+        "Contact1": 7387057193,
+        "Contact2": 7259811553,
+        "Balance": 17467
+    },
+    {
+        "No": "94",
+        "Customer Name": "MAYA PATIL",
+        "Address": "RAHATNI",
+        "Contact1": 9370047438,
+        "Contact2": "-",
+        "Balance": 9300
+    },
+    {
+        "No": "95",
+        "Customer Name": "MAYUR COLLECTION",
+        "Address": "DIGHI",
+        "Contact1": 9623577533,
+        "Contact2": "-",
+        "Balance": 6832
+    },
+    {
+        "No": "96",
+        "Customer Name": "MINHAAJ BHOSRI",
+        "Address": "BHOSRI",
+        "Contact1": 7028355008,
+        "Contact2": 9325201285,
+        "Balance": 30324
+    },
+    {
+        "No": "97",
+        "Customer Name": "MITHLES",
+        "Address": "BHOSRI",
+        "Contact1": 8160461708,
+        "Contact2": 8459062732,
+        "Balance": 46463
+    },
+    {
+        "No": "98",
+        "Customer Name": "MOMA G COLLECTION",
+        "Address": "HINJEWADI",
+        "Contact1": 7387057092,
+        "Contact2": 7387057193,
+        "Balance": 4703
+    },
+    {
+        "No": "99",
+        "Customer Name": "MORDEN COLLECTION MORE BASTI",
+        "Address": "MORE BASTI",
+        "Contact1": 9637520116,
+        "Contact2": 9284264339,
+        "Balance": 2912
+    },
+    {
+        "No": "100",
+        "Customer Name": "MOSI",
+        "Address": "PIMPRI",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 1903
+    },
+    {
+        "No": "101",
+        "Customer Name": "MUMTAAZ",
+        "Address": "YADWADA",
+        "Contact1": 8850975799,
+        "Contact2": 9987614413,
+        "Balance": 10
+    },
+    {
+        "No": "102",
+        "Customer Name": "MUTIBUL",
+        "Address": "BANER",
+        "Contact1": 9264239702,
+        "Contact2": "-",
+        "Balance": 0
+    },
+    {
+        "No": "103",
+        "Customer Name": "MYANUDDIN",
+        "Address": "PIMPRI",
+        "Contact1": 8180989881,
+        "Contact2": "-",
+        "Balance": 15747
+    },
+    {
+        "No": "104",
+        "Customer Name": "MYNUDDIN",
+        "Address": "KALEWADI",
+        "Contact1": "7219493944/",
+        "Contact2": "-",
+        "Balance": 2500
+    },
+    {
+        "No": "105",
+        "Customer Name": "NAFFU BHAI",
+        "Address": "DEHUROAD",
+        "Contact1": 9665620892,
+        "Contact2": "-",
+        "Balance": 711
+    },
+    {
+        "No": "106",
+        "Customer Name": "NANDA TAI",
+        "Address": "PIMPRI",
+        "Contact1": 8329840855,
+        "Contact2": "-",
+        "Balance": 4528
+    },
+    {
+        "No": "107",
+        "Customer Name": "NANHE ANSARI HASINA COLLECTION",
+        "Address": "BALEWADI",
+        "Contact1": 8830668834,
+        "Contact2": "-",
+        "Balance": 2673
+    },
+    {
+        "No": "108",
+        "Customer Name": "NAUSHAAD BHAI",
+        "Address": "DEHUROAD",
+        "Contact1": 8856934482,
+        "Contact2": "-",
+        "Balance": 2000
+    },
+    {
+        "No": "109",
+        "Customer Name": "NAVKAAR COLLECTION",
+        "Address": "NIGDI",
+        "Contact1": 9657443858,
+        "Contact2": "-",
+        "Balance": 13011
+    },
+    {
+        "No": "110",
+        "Customer Name": "NEW FASHION",
+        "Address": "TALEGAON",
+        "Contact1": 9326077717,
+        "Contact2": "-",
+        "Balance": 24322
+    },
+    {
+        "No": "111",
+        "Customer Name": "NEW KAMAL COLLECTION",
+        "Address": "PUNAWLEE",
+        "Contact1": 9850041745,
+        "Contact2": "-",
+        "Balance": 6774
+    },
+    {
+        "No": "112",
+        "Customer Name": "NIRAJ BHAI",
+        "Address": "MORE BASTI",
+        "Contact1": 7276507519,
+        "Contact2": 8421093442,
+        "Balance": 6182
+    },
+    {
+        "No": "113",
+        "Customer Name": "NURSHED",
+        "Address": "CHAKAN",
+        "Contact1": 9113497062,
+        "Contact2": "-",
+        "Balance": 17544
+    },
+    {
+        "No": "114",
+        "Customer Name": "OM COLLECTION",
+        "Address": "SOOSE GAO",
+        "Contact1": 7448118982,
+        "Contact2": "-",
+        "Balance": 3393
+    },
+    {
+        "No": "115",
+        "Customer Name": "OM SAI RADHA COLLECTION",
+        "Address": "-",
+        "Contact1": 8788370593,
+        "Contact2": "-",
+        "Balance": 0
+    },
+    {
+        "No": "116",
+        "Customer Name": "OMPARKASH",
+        "Address": "KOTAE BASTE",
+        "Contact1": 9145208865,
+        "Contact2": "-",
+        "Balance": 6997
+    },
+    {
+        "No": "117",
+        "Customer Name": "OPANDAR CHODHARI",
+        "Address": "BHOSRI",
+        "Contact1": 7654291891,
+        "Contact2": "-",
+        "Balance": 980
+    },
+    {
+        "No": "118",
+        "Customer Name": "padmavati collection",
+        "Address": "-",
+        "Contact1": 9763868840,
+        "Contact2": "-",
+        "Balance": 2626
+    },
+    {
+        "No": "119",
+        "Customer Name": "PANDIT JII",
+        "Address": "BANER",
+        "Contact1": 8766947559,
+        "Contact2": 9637109805,
+        "Balance": 6993
+    },
+    {
+        "No": "120",
+        "Customer Name": "PANKAJ BHAI",
+        "Address": "HINJEWADI",
+        "Contact1": 8180849106,
+        "Contact2": "-",
+        "Balance": 3800
+    },
+    {
+        "No": "121",
+        "Customer Name": "PAPPU CHAUDHRY",
+        "Address": "CHIKHLI",
+        "Contact1": 7083988100,
+        "Contact2": "-",
+        "Balance": 23156
+    },
+    {
+        "No": "122",
+        "Customer Name": "PARKASH KHALUMRE",
+        "Address": "KHALUMRE",
+        "Contact1": 7218080321,
+        "Contact2": "-",
+        "Balance": 2680
+    },
+    {
+        "No": "123",
+        "Customer Name": "PATHAN",
+        "Address": "KALEWADI",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 1385
+    },
+    {
+        "No": "124",
+        "Customer Name": "PAYAL COLLECTION",
+        "Address": "-",
+        "Contact1": 7057717771,
+        "Contact2": 9922080934,
+        "Balance": 0
+    },
+    {
+        "No": "125",
+        "Customer Name": "PIRITAM CHOHAN BHAI",
+        "Address": "CHAKAN",
+        "Contact1": 9579976509,
+        "Contact2": "-",
+        "Balance": 11061
+    },
+    {
+        "No": "126",
+        "Customer Name": "PIRYA FASHION",
+        "Address": "CHINCHWAD",
+        "Contact1": 7083968128,
+        "Contact2": "-",
+        "Balance": 0
+    },
+    {
+        "No": "127",
+        "Customer Name": "PRANJAL COLLECTION",
+        "Address": "KURULI PHATA",
+        "Contact1": 7066996141,
+        "Contact2": 9427830357,
+        "Balance": 31570
+    },
+    {
+        "No": "128",
+        "Customer Name": "PRITAM CHAVHAN",
+        "Address": "CHAKAN",
+        "Contact1": 9172401588,
+        "Contact2": "-",
+        "Balance": 30855
+    },
+    {
+        "No": "129",
+        "Customer Name": "PURAN SINGH",
+        "Address": "WALLAP NAGAR",
+        "Contact1": 8669500807,
+        "Contact2": "-",
+        "Balance": 385
+    },
+    {
+        "No": "130",
+        "Customer Name": "R.K COLLECTION",
+        "Address": "BHOSRI",
+        "Contact1": 8777212255,
+        "Contact2": "-",
+        "Balance": 2375
+    },
+    {
+        "No": "131",
+        "Customer Name": "RAAJNATH",
+        "Address": "PIMPRI",
+        "Contact1": 7020779314,
+        "Contact2": "-",
+        "Balance": 25772
+    },
+    {
+        "No": "132",
+        "Customer Name": "RADHA JHA",
+        "Address": "BHOSRI",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 5082
+    },
+    {
+        "No": "133",
+        "Customer Name": "RAEES BHAI",
+        "Address": "KUDDAL WADI",
+        "Contact1": 8600910786,
+        "Contact2": 7020668730,
+        "Balance": 3960
+    },
+    {
+        "No": "134",
+        "Customer Name": "RAHUL {WORKER}",
+        "Address": "-",
+        "Contact1": 9325594110,
+        "Contact2": "-",
+        "Balance": 734
+    },
+    {
+        "No": "135",
+        "Customer Name": "RAHUL SATALE",
+        "Address": "ALANDI",
+        "Contact1": 9011648486,
+        "Contact2": 9765402138,
+        "Balance": 0
+    },
+    {
+        "No": "136",
+        "Customer Name": "RAJ KAMAL",
+        "Address": "MARONJE",
+        "Contact1": 9860442436,
+        "Contact2": "-",
+        "Balance": 82382
+    },
+    {
+        "No": "137",
+        "Customer Name": "RAJ LAKSHMI",
+        "Address": "HINJEWADI",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 23560
+    },
+    {
+        "No": "138",
+        "Customer Name": "RAJESH PATHARE",
+        "Address": "KHADADI",
+        "Contact1": 8446308022,
+        "Contact2": "-",
+        "Balance": 19515
+    },
+    {
+        "No": "139",
+        "Customer Name": "RAJU BHAI",
+        "Address": "RAJ GURO NAGAR",
+        "Contact1": 9850493026,
+        "Contact2": "-",
+        "Balance": 19268
+    },
+    {
+        "No": "140",
+        "Customer Name": "RAKIBUL BHAI",
+        "Address": "PIMPRI",
+        "Contact1": 9067325035,
+        "Contact2": "-",
+        "Balance": 47948
+    },
+    {
+        "No": "141",
+        "Customer Name": "RAM AVADH PAL",
+        "Address": "WALLEKAR WADI",
+        "Contact1": 9579875226,
+        "Contact2": 8329134877,
+        "Balance": 278
+    },
+    {
+        "No": "142",
+        "Customer Name": "RAM DEV SADI",
+        "Address": "RAJ GURO NAGAR",
+        "Contact1": 9970949454,
+        "Contact2": "-",
+        "Balance": 0
+    },
+    {
+        "No": "143",
+        "Customer Name": "RINKU BHAI",
+        "Address": "PIMPRI",
+        "Contact1": 8208812101,
+        "Contact2": "-",
+        "Balance": 1373
+    },
+    {
+        "No": "144",
+        "Customer Name": "RIYAZ BHAI",
+        "Address": "MORE BASTI",
+        "Contact1": 9921702111,
+        "Contact2": "-",
+        "Balance": 1120
+    },
+    {
+        "No": "145",
+        "Customer Name": "RIZWAN ANSARI/ANAS COLLECTION",
+        "Address": "YADWADA",
+        "Contact1": 8956088309,
+        "Contact2": "-",
+        "Balance": 317
+    },
+    {
+        "No": "146",
+        "Customer Name": "S.V.S GARMENTS",
+        "Address": "KALEWADI",
+        "Contact1": 7020691681,
+        "Contact2": "-",
+        "Balance": 19047
+    },
+    {
+        "No": "147",
+        "Customer Name": "SABHIRUL",
+        "Address": "BHOSRI",
+        "Contact1": 9579475451,
+        "Contact2": "-",
+        "Balance": 5233
+    },
+    {
+        "No": "148",
+        "Customer Name": "SABIR BHAI",
+        "Address": "YADWADA",
+        "Contact1": 8668203091,
+        "Contact2": "-",
+        "Balance": 57320
+    },
+    {
+        "No": "149",
+        "Customer Name": "SADDAM RAEEN",
+        "Address": "YADWADA",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 10480
+    },
+    {
+        "No": "150",
+        "Customer Name": "SAGAR",
+        "Address": "KUDDAL WADI",
+        "Contact1": 8408017627,
+        "Contact2": 7776824515,
+        "Balance": 33192
+    },
+    {
+        "No": "151",
+        "Customer Name": "SAHIL COLLECTION",
+        "Address": "MOSHI",
+        "Contact1": 8180822304,
+        "Contact2": 838106937,
+        "Balance": 301
+    },
+    {
+        "No": "152",
+        "Customer Name": "SAHZAD BHAI",
+        "Address": "BHOSRI",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 5251
+    },
+    {
+        "No": "153",
+        "Customer Name": "SAHZAD BHAI PIMPRI",
+        "Address": "PIMPRI",
+        "Contact1": 8329762899,
+        "Contact2": "-",
+        "Balance": 113016
+    },
+    {
+        "No": "154",
+        "Customer Name": "SAI COLLECTION",
+        "Address": "DAUND",
+        "Contact1": 9960690594,
+        "Contact2": 9765601555,
+        "Balance": 17307
+    },
+    {
+        "No": "155",
+        "Customer Name": "SAILESH BHAI",
+        "Address": "CHAKAN",
+        "Contact1": 7756907623,
+        "Contact2": "-",
+        "Balance": 57
+    },
+    {
+        "No": "156",
+        "Customer Name": "SAKHSHI ENTERPRISES",
+        "Address": "CHIKHLI",
+        "Contact1": 7875030954,
+        "Contact2": "-",
+        "Balance": 1394
+    },
+    {
+        "No": "157",
+        "Customer Name": "SAMBHU  RAJ",
+        "Address": "CHAKAN",
+        "Contact1": 9067078370,
+        "Contact2": "-",
+        "Balance": 3097
+    },
+    {
+        "No": "158",
+        "Customer Name": "SAMSUDDIN",
+        "Address": "KHADKI",
+        "Contact1": 7250627604,
+        "Contact2": 7448112476,
+        "Balance": 1150
+    },
+    {
+        "No": "159",
+        "Customer Name": "SANJAY SETH",
+        "Address": "PIMPRI",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 3677
+    },
+    {
+        "No": "160",
+        "Customer Name": "SANU BHAI",
+        "Address": "-",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 5416
+    },
+    {
+        "No": "161",
+        "Customer Name": "SARDAMA COLLECTION",
+        "Address": "MORE BASTI",
+        "Contact1": 8975253614,
+        "Contact2": "-",
+        "Balance": 700
+    },
+    {
+        "No": "162",
+        "Customer Name": "SARDHA COLLECTION",
+        "Address": "MORE BASTI",
+        "Contact1": 7020977577,
+        "Contact2": "-",
+        "Balance": 23450
+    },
+    {
+        "No": "163",
+        "Customer Name": "SARFUDDIN",
+        "Address": "PIMPRI",
+        "Contact1": 7972265319,
+        "Contact2": "-",
+        "Balance": 484533
+    },
+    {
+        "No": "164",
+        "Customer Name": "SARVES",
+        "Address": "MORE BASTI",
+        "Contact1": 9975620019,
+        "Contact2": "-",
+        "Balance": 1915
+    },
+    {
+        "No": "165",
+        "Customer Name": "SATARA COLLECTION",
+        "Address": "ALANDI",
+        "Contact1": 9112677974,
+        "Contact2": "-",
+        "Balance": 10580
+    },
+    {
+        "No": "166",
+        "Customer Name": "SATTAR CHACHA",
+        "Address": "KHADKI",
+        "Contact1": 9028756161,
+        "Contact2": "-",
+        "Balance": 7945
+    },
+    {
+        "No": "167",
+        "Customer Name": "SD SHOPPING CLUB",
+        "Address": "KUDDAL WADI",
+        "Contact1": 9423528476,
+        "Contact2": 8329740296,
+        "Balance": 93265
+    },
+    {
+        "No": "168",
+        "Customer Name": "SHAHID BHAI",
+        "Address": "CHAKAN",
+        "Contact1": 8459405235,
+        "Contact2": "-",
+        "Balance": 2079
+    },
+    {
+        "No": "169",
+        "Customer Name": "SHAIKH BHAI",
+        "Address": "BHOSRI",
+        "Contact1": 9552739558,
+        "Contact2": "-",
+        "Balance": 17847
+    },
+    {
+        "No": "170",
+        "Customer Name": "SHAKIL SAIKH",
+        "Address": "NIGDI",
+        "Contact1": 8421603698,
+        "Contact2": "-",
+        "Balance": 3442
+    },
+    {
+        "No": "171",
+        "Customer Name": "SHAKIR BHAI",
+        "Address": "YADWADA",
+        "Contact1": 7020654895,
+        "Contact2": "-",
+        "Balance": 10130
+    },
+    {
+        "No": "172",
+        "Customer Name": "shanu",
+        "Address": "PIMPRI",
+        "Contact1": 8766406962,
+        "Contact2": "-",
+        "Balance": 3337
+    },
+    {
+        "No": "173",
+        "Customer Name": "SHARFUDIN KHALU",
+        "Address": "PIMPRI",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 11227
+    },
+    {
+        "No": "174",
+        "Customer Name": "SHARUKH SSD",
+        "Address": "KALEWADI",
+        "Contact1": 7887372555,
+        "Contact2": "-",
+        "Balance": 0
+    },
+    {
+        "No": "175",
+        "Customer Name": "SHIKINDAR BHAI",
+        "Address": "CHAKAN",
+        "Contact1": 8668716690,
+        "Contact2": "-",
+        "Balance": 6553
+    },
+    {
+        "No": "176",
+        "Customer Name": "SHIVA",
+        "Address": "BHOSRI",
+        "Contact1": 9175397644,
+        "Contact2": 9511943578,
+        "Balance": 4334
+    },
+    {
+        "No": "177",
+        "Customer Name": "SHIWAJI",
+        "Address": "PARBHANI",
+        "Contact1": 8766738476,
+        "Contact2": "-",
+        "Balance": 2429
+    },
+    {
+        "No": "178",
+        "Customer Name": "SHOAIB MAMU",
+        "Address": "PIMPRI",
+        "Contact1": 9021110209,
+        "Contact2": "-",
+        "Balance": 3093
+    },
+    {
+        "No": "179",
+        "Customer Name": "SHREE FASHION",
+        "Address": "PUNAWLEE",
+        "Contact1": "9850041745/",
+        "Contact2": "-",
+        "Balance": 25897
+    },
+    {
+        "No": "180",
+        "Customer Name": "SHREE SAMARTH COLLECTION",
+        "Address": "TALEGAON",
+        "Contact1": 8308266640,
+        "Contact2": 9767515802,
+        "Balance": 33733
+    },
+    {
+        "No": "181",
+        "Customer Name": "SHRI LAXMI COLLECTION",
+        "Address": "MALUNGHE ",
+        "Contact1": 7620575342,
+        "Contact2": "-",
+        "Balance": 0
+    },
+    {
+        "No": "182",
+        "Customer Name": "SHRI MAHA LAXMI COLLECTION",
+        "Address": "-",
+        "Contact1": 9527532192,
+        "Contact2": "-",
+        "Balance": 0
+    },
+    {
+        "No": "183",
+        "Customer Name": "SHUIB",
+        "Address": "MORE BASTI",
+        "Contact1": 8766414628,
+        "Contact2": "-",
+        "Balance": 5653
+    },
+    {
+        "No": "184",
+        "Customer Name": "SIRAJUDDIN ANSARI",
+        "Address": "KONDHWA",
+        "Contact1": 95616442786,
+        "Contact2": 9028261681,
+        "Balance": 199334
+    },
+    {
+        "No": "185",
+        "Customer Name": "SONY",
+        "Address": "PIMPRI",
+        "Contact1": 9822547426,
+        "Contact2": "-",
+        "Balance": 12015
+    },
+    {
+        "No": "186",
+        "Customer Name": "SUDHAN SAREE CENTER",
+        "Address": "CHIKHLI",
+        "Contact1": 9075433687,
+        "Contact2": "-",
+        "Balance": 85
+    },
+    {
+        "No": "187",
+        "Customer Name": "SUHAIL BHAI/FAROCK",
+        "Address": "MORE BASTI",
+        "Contact1": 9284676620,
+        "Contact2": 9527559275,
+        "Balance": 23228
+    },
+    {
+        "No": "188",
+        "Customer Name": "SUNI SETH",
+        "Address": "PIMPRI",
+        "Contact1": 7385911238,
+        "Contact2": "-",
+        "Balance": 10000
+    },
+    {
+        "No": "189",
+        "Customer Name": "SUNIL MORYA",
+        "Address": "-",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 23075
+    },
+    {
+        "No": "190",
+        "Customer Name": "SURJEET",
+        "Address": "PIMPRI",
+        "Contact1": 9021232516,
+        "Contact2": "-",
+        "Balance": 9630
+    },
+    {
+        "No": "191",
+        "Customer Name": "SURJEET BHAI",
+        "Address": "BHOSRI",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 8000
+    },
+    {
+        "No": "192",
+        "Customer Name": "TAHJIBUL RAHMAN",
+        "Address": "PIMPRI",
+        "Contact1": 8329060795,
+        "Contact2": "-",
+        "Balance": 128493
+    },
+    {
+        "No": "193",
+        "Customer Name": "TAJAMMUL",
+        "Address": "YADWADA",
+        "Contact1": 9970315877,
+        "Contact2": "-",
+        "Balance": 67927
+    },
+    {
+        "No": "194",
+        "Customer Name": "TAMANNE ANSARI",
+        "Address": "YADWADA",
+        "Contact1": 7664900110,
+        "Contact2": 9661297604,
+        "Balance": 9276
+    },
+    {
+        "No": "195",
+        "Customer Name": "TOFIK BHAI",
+        "Address": "BHOSRI",
+        "Contact1": 9049690117,
+        "Contact2": "-",
+        "Balance": 17940
+    },
+    {
+        "No": "196",
+        "Customer Name": "UWA FASHION",
+        "Address": "DANGE CHOK",
+        "Contact1": 7798624241,
+        "Contact2": "-",
+        "Balance": 1535
+    },
+    {
+        "No": "197",
+        "Customer Name": "VISHNU",
+        "Address": "PIMPRI",
+        "Contact1": 7972745906,
+        "Contact2": "-",
+        "Balance": 5112
+    },
+    {
+        "No": "198",
+        "Customer Name": "WADOOD SETH",
+        "Address": "KONDHWA",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": 15392
+    },
+    {
+        "No": "199",
+        "Customer Name": "WAKIL BHAI",
+        "Address": "CHAKAN",
+        "Contact1": "9975245016/",
+        "Contact2": "-",
+        "Balance": 29725
+    },
+    {
+        "No": "200",
+        "Customer Name": "WALI",
+        "Address": "-",
+        "Contact1": 7219757974,
+        "Contact2": "-",
+        "Balance": 0
+    },
+    {
+        "No": "201",
+        "Customer Name": "YASHI RAJ COLLECTION",
+        "Address": "PIMPRI",
+        "Contact1": 9890989571,
+        "Contact2": "-",
+        "Balance": 20328
+    },
+    {
+        "No": "202",
+        "Customer Name": "YUVA FASHION",
+        "Address": "DANGE CHOK",
+        "Contact1": 7798624241,
+        "Contact2": "-",
+        "Balance": 19898
+    },
+    {
+        "No": "203",
+        "Customer Name": "ZAKIR  BHAI",
+        "Address": "YADWADA",
+        "Contact1": 7489027272,
+        "Contact2": "-",
+        "Balance": 58317
+    }
+  
+]
