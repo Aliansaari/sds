@@ -1622,21 +1622,5 @@
         "Contact1": "7489027272",
         "Contact2": "-",
         "Balance": "58317"
-    },
-    {
-        "No": "----",
-        "Customer_Name": "----",
-        "Address": "----",
-        "Contact1": "----",
-        "Contact2": "----",
-        "Balance": "----"
-    },
-    {
-        "No": "TOTAL",
-        "Customer_Name": "----",
-        "Address": "----",
-        "Contact1": "----",
-        "Contact2": "----",
-        "Balance": "4064044"
     }
 ]
