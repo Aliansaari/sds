@@ -357,13 +357,13 @@
         "Address": "MORE BASTI",
         "Contact1": "7020901116",
         "Contact2": "-",
-        "Balance": "80888"
+        "Balance": "102920"
     },
     {
         "No": "46",
         "Customer_Name": "FIROZ BHAI",
         "Address": "PIMPRI",
-        "Contact1": "9762878270",
+        "Contact1": "9762878270/",
         "Contact2": "-",
         "Balance": "21619"
     },
@@ -827,7 +827,7 @@
         "No": "104",
         "Customer_Name": "MYNUDDIN",
         "Address": "KALEWADI",
-        "Contact1": "7219493944",
+        "Contact1": "7219493944/",
         "Contact2": "-",
         "Balance": "2500"
     },
@@ -1117,7 +1117,7 @@
         "Address": "PIMPRI",
         "Contact1": "9067325035",
         "Contact2": "-",
-        "Balance": "47948"
+        "Balance": "56186"
     },
     {
         "No": "141",
@@ -1427,7 +1427,7 @@
         "No": "179",
         "Customer_Name": "SHREE FASHION",
         "Address": "PUNAWLEE",
-        "Contact1": "9850041745",
+        "Contact1": "9850041745/",
         "Contact2": "-",
         "Balance": "25897"
     },
@@ -1533,7 +1533,7 @@
         "Address": "PIMPRI",
         "Contact1": "8329060795",
         "Contact2": "-",
-        "Balance": "128493"
+        "Balance": "128221"
     },
     {
         "No": "193",
@@ -1587,7 +1587,7 @@
         "No": "199",
         "Customer_Name": "WAKIL BHAI",
         "Address": "CHAKAN",
-        "Contact1": "9975245016",
+        "Contact1": "9975245016/",
         "Contact2": "-",
         "Balance": "29725"
     },
@@ -1622,5 +1622,21 @@
         "Contact1": "7489027272",
         "Contact2": "-",
         "Balance": "58317"
+    },
+    {
+        "No": "----",
+        "Customer_Name": "----",
+        "Address": "----",
+        "Contact1": "----",
+        "Contact2": "----",
+        "Balance": "----"
+    },
+    {
+        "No": "TOTAL",
+        "Customer_Name": "----",
+        "Address": "----",
+        "Contact1": "----",
+        "Contact2": "----",
+        "Balance": "4064044"
     }
 ]
