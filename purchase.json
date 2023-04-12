@@ -37,10 +37,18 @@
         "Address": "MUMBAI",
         "Contact1": "-",
         "Contact2": "-",
-        "Balance": "181521"
+        "Balance": "123391"
     },
     {
         "No": "6",
+        "Supplier_Name": "AAKASH SALES ",
+        "Address": "-",
+        "Contact1": "-",
+        "Contact2": "-",
+        "Balance": "82690"
+    },
+    {
+        "No": "7",
         "Supplier_Name": "AHSHAN BHAI",
         "Address": "MUMBAI",
         "Contact1": "-",
@@ -48,7 +56,7 @@
         "Balance": "2700"
     },
     {
-        "No": "7",
+        "No": "8",
         "Supplier_Name": "ALAM.S GARMENTS",
         "Address": "-",
         "Contact1": "8422093509",
@@ -56,7 +64,7 @@
         "Balance": "14895"
     },
     {
-        "No": "8",
+        "No": "9",
         "Supplier_Name": "ALI CASH",
         "Address": "-",
         "Contact1": "-",
@@ -64,7 +72,7 @@
         "Balance": "0"
     },
     {
-        "No": "9",
+        "No": "10",
         "Supplier_Name": "ANJUM",
         "Address": "-",
         "Contact1": "-",
@@ -72,7 +80,7 @@
         "Balance": "45870"
     },
     {
-        "No": "10",
+        "No": "11",
         "Supplier_Name": "ASGAR",
         "Address": "KOLKATA",
         "Contact1": "-",
@@ -80,7 +88,7 @@
         "Balance": "0"
     },
     {
-        "No": "11",
+        "No": "12",
         "Supplier_Name": "ASLAM KOLKATA",
         "Address": "KOLKATA",
         "Contact1": "-",
@@ -88,7 +96,7 @@
         "Balance": "0"
     },
     {
-        "No": "12",
+        "No": "13",
         "Supplier_Name": "ATUL",
         "Address": "MUMBAI",
         "Contact1": "9324259673",
@@ -96,7 +104,7 @@
         "Balance": "0"
     },
     {
-        "No": "13",
+        "No": "14",
         "Supplier_Name": "AVIVA",
         "Address": "KOLKATA",
         "Contact1": "8017859187",
@@ -104,7 +112,7 @@
         "Balance": "0"
     },
     {
-        "No": "14",
+        "No": "15",
         "Supplier_Name": "AZAZ BHAI",
         "Address": "-",
         "Contact1": "-",
@@ -112,7 +120,7 @@
         "Balance": "10000"
     },
     {
-        "No": "15",
+        "No": "16",
         "Supplier_Name": "AZHAR",
         "Address": "-",
         "Contact1": "8104888153",
@@ -120,7 +128,7 @@
         "Balance": "13620"
     },
     {
-        "No": "16",
+        "No": "17",
         "Supplier_Name": "AZIM",
         "Address": "-",
         "Contact1": "8208785987",
@@ -128,7 +136,7 @@
         "Balance": "22200"
     },
     {
-        "No": "17",
+        "No": "18",
         "Supplier_Name": "BADRUDDIN",
         "Address": "-",
         "Contact1": "-",
@@ -136,7 +144,7 @@
         "Balance": "0"
     },
     {
-        "No": "18",
+        "No": "19",
         "Supplier_Name": "BARKAT GARMENTS",
         "Address": "-",
         "Contact1": "9011852262",
@@ -144,7 +152,7 @@
         "Balance": "86650"
     },
     {
-        "No": "19",
+        "No": "20",
         "Supplier_Name": "BILAL GARMENTS [TARA]",
         "Address": "-",
         "Contact1": "9892264627",
@@ -152,7 +160,7 @@
         "Balance": "44100"
     },
     {
-        "No": "20",
+        "No": "21",
         "Supplier_Name": "BIVA",
         "Address": "-",
         "Contact1": "9836146139",
@@ -160,7 +168,7 @@
         "Balance": "0"
     },
     {
-        "No": "21",
+        "No": "22",
         "Supplier_Name": "BURHANI",
         "Address": "-",
         "Contact1": "9820848533",
@@ -168,15 +176,15 @@
         "Balance": "0"
     },
     {
-        "No": "22",
+        "No": "23",
         "Supplier_Name": "CASH",
         "Address": "-",
         "Contact1": "-",
         "Contact2": "-",
-        "Balance": "0"
+        "Balance": "22680"
     },
     {
-        "No": "23",
+        "No": "24",
         "Supplier_Name": "CHAND BHAI",
         "Address": "-",
         "Contact1": "-",
@@ -184,7 +192,7 @@
         "Balance": "108073"
     },
     {
-        "No": "24",
+        "No": "25",
         "Supplier_Name": "D/S",
         "Address": "-",
         "Contact1": "-",
@@ -192,7 +200,7 @@
         "Balance": "0"
     },
     {
-        "No": "25",
+        "No": "26",
         "Supplier_Name": "DAWOOD BHAI",
         "Address": "-",
         "Contact1": "-",
@@ -200,7 +208,7 @@
         "Balance": "0"
     },
     {
-        "No": "26",
+        "No": "27",
         "Supplier_Name": "DELHI",
         "Address": "-",
         "Contact1": "-",
@@ -208,7 +216,7 @@
         "Balance": "0"
     },
     {
-        "No": "27",
+        "No": "28",
         "Supplier_Name": "DOLLY GARMENTS",
         "Address": "-",
         "Contact1": "-",
@@ -216,7 +224,7 @@
         "Balance": "0"
     },
     {
-        "No": "28",
+        "No": "29",
         "Supplier_Name": "F RAHAN",
         "Address": "-",
         "Contact1": "-",
@@ -224,7 +232,7 @@
         "Balance": "44280"
     },
     {
-        "No": "29",
+        "No": "30",
         "Supplier_Name": "FASHION SABNAM",
         "Address": "-",
         "Contact1": "-",
@@ -232,15 +240,15 @@
         "Balance": "0"
     },
     {
-        "No": "30",
+        "No": "31",
         "Supplier_Name": "FIROJ PUNE",
         "Address": "-",
         "Contact1": "-",
         "Contact2": "-",
-        "Balance": "12432"
+        "Balance": "22442"
     },
     {
-        "No": "31",
+        "No": "32",
         "Supplier_Name": "G CHANDNI",
         "Address": "-",
         "Contact1": "-",
@@ -248,7 +256,7 @@
         "Balance": "0"
     },
     {
-        "No": "32",
+        "No": "33",
         "Supplier_Name": "GOLDEN GARMENT {CHORMAL}",
         "Address": "-",
         "Contact1": "8888506000",
@@ -256,7 +264,7 @@
         "Balance": "0"
     },
     {
-        "No": "33",
+        "No": "34",
         "Supplier_Name": "HA {HIRA LAL ARJANDAS}",
         "Address": "-",
         "Contact1": "9324460363",
@@ -264,7 +272,7 @@
         "Balance": "0"
     },
     {
-        "No": "34",
+        "No": "35",
         "Supplier_Name": "HAFIZUR REHMAN",
         "Address": "-",
         "Contact1": "-",
@@ -272,7 +280,7 @@
         "Balance": "0"
     },
     {
-        "No": "35",
+        "No": "36",
         "Supplier_Name": "HARIS BHAI",
         "Address": "-",
         "Contact1": "-",
@@ -280,7 +288,7 @@
         "Balance": "0"
     },
     {
-        "No": "36",
+        "No": "37",
         "Supplier_Name": "HASIBUL",
         "Address": "-",
         "Contact1": "-",
@@ -288,7 +296,7 @@
         "Balance": "0"
     },
     {
-        "No": "37",
+        "No": "38",
         "Supplier_Name": "HEENA FASHIONS",
         "Address": "-",
         "Contact1": "-",
@@ -296,7 +304,7 @@
         "Balance": "0"
     },
     {
-        "No": "38",
+        "No": "39",
         "Supplier_Name": "HIRAN DRESSES",
         "Address": "-",
         "Contact1": "-",
@@ -304,7 +312,7 @@
         "Balance": "0"
     },
     {
-        "No": "39",
+        "No": "40",
         "Supplier_Name": "HOLUL",
         "Address": "-",
         "Contact1": "-",
@@ -312,7 +320,7 @@
         "Balance": "0"
     },
     {
-        "No": "40",
+        "No": "41",
         "Supplier_Name": "IKBAL",
         "Address": "-",
         "Contact1": "-",
@@ -320,7 +328,7 @@
         "Balance": "0"
     },
     {
-        "No": "41",
+        "No": "42",
         "Supplier_Name": "IQBAL BHAI STOLL",
         "Address": "-",
         "Contact1": "-",
@@ -328,7 +336,7 @@
         "Balance": "16500"
     },
     {
-        "No": "42",
+        "No": "43",
         "Supplier_Name": "ISHAK",
         "Address": "-",
         "Contact1": "-",
@@ -336,7 +344,7 @@
         "Balance": "0"
     },
     {
-        "No": "43",
+        "No": "44",
         "Supplier_Name": "J.S KNITWEAR",
         "Address": "-",
         "Contact1": "-",
@@ -344,7 +352,7 @@
         "Balance": "26520"
     },
     {
-        "No": "44",
+        "No": "45",
         "Supplier_Name": "JAHIER BHAI",
         "Address": "-",
         "Contact1": "8000214440",
@@ -352,7 +360,7 @@
         "Balance": "0"
     },
     {
-        "No": "45",
+        "No": "46",
         "Supplier_Name": "JAI BALAJI  JEANS",
         "Address": "-",
         "Contact1": "9890103097",
@@ -360,7 +368,7 @@
         "Balance": "0"
     },
     {
-        "No": "46",
+        "No": "47",
         "Supplier_Name": "JAI KISHOR",
         "Address": "-",
         "Contact1": "-",
@@ -368,7 +376,7 @@
         "Balance": "0"
     },
     {
-        "No": "47",
+        "No": "48",
         "Supplier_Name": "JAI SHANKER TRADERS",
         "Address": "-",
         "Contact1": "-",
@@ -376,7 +384,7 @@
         "Balance": "0"
     },
     {
-        "No": "48",
+        "No": "49",
         "Supplier_Name": "JAMEL",
         "Address": "-",
         "Contact1": "-",
@@ -384,7 +392,7 @@
         "Balance": "34795"
     },
     {
-        "No": "49",
+        "No": "50",
         "Supplier_Name": "JENS MEHDI",
         "Address": "-",
         "Contact1": "-",
@@ -392,7 +400,7 @@
         "Balance": "0"
     },
     {
-        "No": "50",
+        "No": "51",
         "Supplier_Name": "JINS AABID",
         "Address": "-",
         "Contact1": "-",
@@ -400,7 +408,7 @@
         "Balance": "0"
     },
     {
-        "No": "51",
+        "No": "52",
         "Supplier_Name": "K",
         "Address": "-",
         "Contact1": "-",
@@ -408,7 +416,7 @@
         "Balance": "0"
     },
     {
-        "No": "52",
+        "No": "53",
         "Supplier_Name": "K NIZAM",
         "Address": "-",
         "Contact1": "7003400208",
@@ -416,7 +424,7 @@
         "Balance": "0"
     },
     {
-        "No": "53",
+        "No": "54",
         "Supplier_Name": "K.G.N GARMENTS",
         "Address": "-",
         "Contact1": "9004949022",
@@ -424,7 +432,7 @@
         "Balance": "32304"
     },
     {
-        "No": "54",
+        "No": "55",
         "Supplier_Name": "KALASH APPARELS",
         "Address": "-",
         "Contact1": "-",
@@ -432,15 +440,15 @@
         "Balance": "0"
     },
     {
-        "No": "55",
+        "No": "56",
         "Supplier_Name": "KARAN TRADERES { GURMUKH }",
         "Address": "-",
         "Contact1": "-",
         "Contact2": "-",
-        "Balance": "50870"
+        "Balance": "71890"
     },
     {
-        "No": "56",
+        "No": "57",
         "Supplier_Name": "KHANNA KNIT KINGS",
         "Address": "-",
         "Contact1": "-",
@@ -448,7 +456,7 @@
         "Balance": "11880"
     },
     {
-        "No": "57",
+        "No": "58",
         "Supplier_Name": "KHAZANCHI",
         "Address": "-",
         "Contact1": "-",
@@ -456,7 +464,7 @@
         "Balance": "0"
     },
     {
-        "No": "58",
+        "No": "59",
         "Supplier_Name": "KRISHNA HOIERY FACTORY",
         "Address": "-",
         "Contact1": "-",
@@ -464,7 +472,7 @@
         "Balance": "34140"
     },
     {
-        "No": "59",
+        "No": "60",
         "Supplier_Name": "KRISHNA TEXTILE",
         "Address": "-",
         "Contact1": "-",
@@ -472,7 +480,7 @@
         "Balance": "0"
     },
     {
-        "No": "60",
+        "No": "61",
         "Supplier_Name": "LAALSHA  GARMENTS",
         "Address": "-",
         "Contact1": "9892650527",
@@ -480,7 +488,7 @@
         "Balance": "5680"
     },
     {
-        "No": "61",
+        "No": "62",
         "Supplier_Name": "LABIB JEANS",
         "Address": "-",
         "Contact1": "-",
@@ -488,7 +496,7 @@
         "Balance": "0"
     },
     {
-        "No": "62",
+        "No": "63",
         "Supplier_Name": "LUPPER TRADERS",
         "Address": "-",
         "Contact1": "9822512639",
@@ -496,7 +504,7 @@
         "Balance": "20480"
     },
     {
-        "No": "63",
+        "No": "64",
         "Supplier_Name": "M K POPULAR DRESSES",
         "Address": "-",
         "Contact1": "-",
@@ -504,7 +512,7 @@
         "Balance": "0"
     },
     {
-        "No": "64",
+        "No": "65",
         "Supplier_Name": "MADINA DRESSES",
         "Address": "-",
         "Contact1": "-",
@@ -512,15 +520,15 @@
         "Balance": "0"
     },
     {
-        "No": "65",
+        "No": "66",
         "Supplier_Name": "MAHADEV { PUNIT }",
         "Address": "-",
         "Contact1": "-",
         "Contact2": "-",
-        "Balance": "6992"
+        "Balance": "37822"
     },
     {
-        "No": "66",
+        "No": "67",
         "Supplier_Name": "MAHAK GARMENT",
         "Address": "-",
         "Contact1": "-",
@@ -528,15 +536,15 @@
         "Balance": "58500"
     },
     {
-        "No": "67",
+        "No": "68",
         "Supplier_Name": "MAHEK JEANS { MARVEL }",
         "Address": "-",
         "Contact1": "9323744832",
         "Contact2": "8446614646",
-        "Balance": "28815"
+        "Balance": "70840"
     },
     {
-        "No": "68",
+        "No": "69",
         "Supplier_Name": "MAHENOOR COLLECTION",
         "Address": "-",
         "Contact1": "7489027272",
@@ -544,7 +552,7 @@
         "Balance": "0"
     },
     {
-        "No": "69",
+        "No": "70",
         "Supplier_Name": "MAHFUZ",
         "Address": "-",
         "Contact1": "-",
@@ -552,7 +560,7 @@
         "Balance": "98065"
     },
     {
-        "No": "70",
+        "No": "71",
         "Supplier_Name": "MAKHAN HOIERY WORKS",
         "Address": "-",
         "Contact1": "-",
@@ -560,7 +568,7 @@
         "Balance": "0"
     },
     {
-        "No": "71",
+        "No": "72",
         "Supplier_Name": "MANTASA GARMENT",
         "Address": "-",
         "Contact1": "9322761674",
@@ -568,7 +576,7 @@
         "Balance": "348407"
     },
     {
-        "No": "72",
+        "No": "73",
         "Supplier_Name": "MD GARMENTS",
         "Address": "-",
         "Contact1": "-",
@@ -576,7 +584,7 @@
         "Balance": "66620"
     },
     {
-        "No": "73",
+        "No": "74",
         "Supplier_Name": "MEHBOOB BHAI",
         "Address": "-",
         "Contact1": "8460006133",
@@ -584,7 +592,7 @@
         "Balance": "0"
     },
     {
-        "No": "74",
+        "No": "75",
         "Supplier_Name": "MHK { JEANS } KAMRUDDIN",
         "Address": "-",
         "Contact1": "9130988041",
@@ -592,7 +600,7 @@
         "Balance": "20240"
     },
     {
-        "No": "75",
+        "No": "76",
         "Supplier_Name": "MOJA FARED BHAI",
         "Address": "-",
         "Contact1": "-",
@@ -600,7 +608,7 @@
         "Balance": "0"
     },
     {
-        "No": "76",
+        "No": "77",
         "Supplier_Name": "MONTU KNITWEAR BOLBOL",
         "Address": "-",
         "Contact1": "-",
@@ -608,7 +616,7 @@
         "Balance": "17580"
     },
     {
-        "No": "77",
+        "No": "78",
         "Supplier_Name": "MORYA",
         "Address": "-",
         "Contact1": "-",
@@ -616,7 +624,7 @@
         "Balance": "0"
     },
     {
-        "No": "78",
+        "No": "79",
         "Supplier_Name": "M-SHYAM TRADING",
         "Address": "-",
         "Contact1": "-",
@@ -624,7 +632,7 @@
         "Balance": "30390"
     },
     {
-        "No": "79",
+        "No": "80",
         "Supplier_Name": "MUNTAZ",
         "Address": "-",
         "Contact1": "-",
@@ -632,15 +640,15 @@
         "Balance": "0"
     },
     {
-        "No": "80",
+        "No": "81",
         "Supplier_Name": "MUSKAN GARMENTS",
         "Address": "-",
         "Contact1": "-",
         "Contact2": "-",
-        "Balance": "0"
+        "Balance": "28602"
     },
     {
-        "No": "81",
+        "No": "82",
         "Supplier_Name": "N.S FASHION",
         "Address": "-",
         "Contact1": "7666645009",
@@ -648,15 +656,15 @@
         "Balance": "0"
     },
     {
-        "No": "82",
+        "No": "83",
         "Supplier_Name": "NASEEB",
         "Address": "-",
         "Contact1": "-",
         "Contact2": "-",
-        "Balance": "44195"
+        "Balance": "34195"
     },
     {
-        "No": "83",
+        "No": "84",
         "Supplier_Name": "NEW HAPPY KNITWEAR",
         "Address": "-",
         "Contact1": "9417189392",
@@ -664,7 +672,7 @@
         "Balance": "88392"
     },
     {
-        "No": "84",
+        "No": "85",
         "Supplier_Name": "NIKI BOYS WEAR",
         "Address": "-",
         "Contact1": "9324460363",
@@ -672,23 +680,23 @@
         "Balance": "0"
     },
     {
-        "No": "85",
+        "No": "86",
         "Supplier_Name": "PANDITJI",
         "Address": "-",
         "Contact1": "9022452250",
         "Contact2": "7678056375",
-        "Balance": "0"
+        "Balance": "5600"
     },
     {
-        "No": "86",
+        "No": "87",
         "Supplier_Name": "PARSRAM BHAGWANDAS",
         "Address": "-",
         "Contact1": "-",
         "Contact2": "-",
-        "Balance": "85746"
+        "Balance": "82078"
     },
     {
-        "No": "87",
+        "No": "88",
         "Supplier_Name": "PINTU CHADDA",
         "Address": "-",
         "Contact1": "-",
@@ -696,15 +704,15 @@
         "Balance": "0"
     },
     {
-        "No": "88",
+        "No": "89",
         "Supplier_Name": "PUNIT  GARMENTS",
         "Address": "-",
         "Contact1": "9766193343",
         "Contact2": "9975555743",
-        "Balance": "173201"
+        "Balance": "153201"
     },
     {
-        "No": "89",
+        "No": "90",
         "Supplier_Name": "R G RAHMAN GARMENTS",
         "Address": "-",
         "Contact1": "-",
@@ -712,7 +720,7 @@
         "Balance": "104584"
     },
     {
-        "No": "90",
+        "No": "91",
         "Supplier_Name": "RAHIM BHAI",
         "Address": "-",
         "Contact1": "-",
@@ -720,7 +728,7 @@
         "Balance": "17573"
     },
     {
-        "No": "91",
+        "No": "92",
         "Supplier_Name": "RAJ CREATIONS",
         "Address": "-",
         "Contact1": "-",
@@ -728,7 +736,7 @@
         "Balance": "0"
     },
     {
-        "No": "92",
+        "No": "93",
         "Supplier_Name": "RAJASH WAR HANDLUM",
         "Address": "-",
         "Contact1": "-",
@@ -736,7 +744,7 @@
         "Balance": "50"
     },
     {
-        "No": "93",
+        "No": "94",
         "Supplier_Name": "RAJU BHAI",
         "Address": "-",
         "Contact1": "-",
@@ -744,7 +752,7 @@
         "Balance": "203710"
     },
     {
-        "No": "94",
+        "No": "95",
         "Supplier_Name": "RAJU GARMENT { WESTERNS }",
         "Address": "-",
         "Contact1": "7977249048",
@@ -752,7 +760,7 @@
         "Balance": "0"
     },
     {
-        "No": "95",
+        "No": "96",
         "Supplier_Name": "RINKU SOETER",
         "Address": "-",
         "Contact1": "9872646121",
@@ -760,7 +768,7 @@
         "Balance": "104700"
     },
     {
-        "No": "96",
+        "No": "97",
         "Supplier_Name": "S.A.GARMENTS",
         "Address": "-",
         "Contact1": "-",
@@ -768,7 +776,7 @@
         "Balance": "35040"
     },
     {
-        "No": "97",
+        "No": "98",
         "Supplier_Name": "S.D ENTERPRRISES { HOSIERY }",
         "Address": "-",
         "Contact1": "7303689625",
@@ -776,15 +784,15 @@
         "Balance": "48325"
     },
     {
-        "No": "98",
+        "No": "99",
         "Supplier_Name": "S.D GARMENTS [ SAHID ]",
         "Address": "-",
         "Contact1": "-",
         "Contact2": "-",
-        "Balance": "1366854"
+        "Balance": "898578"
     },
     {
-        "No": "99",
+        "No": "100",
         "Supplier_Name": "S.G. GARMENTS [ SAFIQ ]",
         "Address": "-",
         "Contact1": "-",
@@ -792,7 +800,7 @@
         "Balance": "2342923"
     },
     {
-        "No": "100",
+        "No": "101",
         "Supplier_Name": "S.G.O { KOLKATA }",
         "Address": "-",
         "Contact1": "9091243122",
@@ -800,7 +808,7 @@
         "Balance": "0"
     },
     {
-        "No": "101",
+        "No": "102",
         "Supplier_Name": "S.K GARMENTS/AALAM",
         "Address": "-",
         "Contact1": "-",
@@ -808,15 +816,15 @@
         "Balance": "0"
     },
     {
-        "No": "102",
+        "No": "103",
         "Supplier_Name": "S.K. GARMENTS",
         "Address": "-",
         "Contact1": "9321737549",
         "Contact2": "9769741865",
-        "Balance": "833"
+        "Balance": "51233"
     },
     {
-        "No": "103",
+        "No": "104",
         "Supplier_Name": "S.P GARMENTS RAEES",
         "Address": "-",
         "Contact1": "-",
@@ -824,15 +832,15 @@
         "Balance": "0"
     },
     {
-        "No": "104",
+        "No": "105",
         "Supplier_Name": "SAFE TREDDING",
         "Address": "-",
         "Contact1": "-",
         "Contact2": "-",
-        "Balance": "0"
+        "Balance": "67590"
     },
     {
-        "No": "105",
+        "No": "106",
         "Supplier_Name": "SAFIYA CREATION  [WAHID]",
         "Address": "-",
         "Contact1": "9324917410",
@@ -840,7 +848,7 @@
         "Balance": "213925"
     },
     {
-        "No": "106",
+        "No": "107",
         "Supplier_Name": "SAIMA  TRADERS",
         "Address": "-",
         "Contact1": "7021510659",
@@ -848,7 +856,7 @@
         "Balance": "0"
     },
     {
-        "No": "107",
+        "No": "108",
         "Supplier_Name": "SAKEL BHAI",
         "Address": "-",
         "Contact1": "-",
@@ -856,7 +864,7 @@
         "Balance": "155967"
     },
     {
-        "No": "108",
+        "No": "109",
         "Supplier_Name": "SAKER",
         "Address": "-",
         "Contact1": "-",
@@ -864,7 +872,7 @@
         "Balance": "0"
     },
     {
-        "No": "109",
+        "No": "110",
         "Supplier_Name": "SALAM",
         "Address": "-",
         "Contact1": "9322932709",
@@ -872,7 +880,7 @@
         "Balance": "41088"
     },
     {
-        "No": "110",
+        "No": "111",
         "Supplier_Name": "SALEM",
         "Address": "-",
         "Contact1": "-",
@@ -880,7 +888,7 @@
         "Balance": "0"
     },
     {
-        "No": "111",
+        "No": "112",
         "Supplier_Name": "SAMIM",
         "Address": "-",
         "Contact1": "-",
@@ -888,15 +896,15 @@
         "Balance": "0"
     },
     {
-        "No": "112",
+        "No": "113",
         "Supplier_Name": "SAMSA AALAM",
         "Address": "-",
         "Contact1": "-",
         "Contact2": "-",
-        "Balance": "320578"
+        "Balance": "392268"
     },
     {
-        "No": "113",
+        "No": "114",
         "Supplier_Name": "SANA GARMENT { SHUEB }",
         "Address": "-",
         "Contact1": "-",
@@ -904,7 +912,7 @@
         "Balance": "0"
     },
     {
-        "No": "114",
+        "No": "115",
         "Supplier_Name": "SATGURU SAI GARMENT {JUNIOR KIDS}",
         "Address": "-",
         "Contact1": "-",
@@ -912,7 +920,7 @@
         "Balance": "0"
     },
     {
-        "No": "115",
+        "No": "116",
         "Supplier_Name": "SD",
         "Address": "-",
         "Contact1": "-",
@@ -920,7 +928,7 @@
         "Balance": "0"
     },
     {
-        "No": "116",
+        "No": "117",
         "Supplier_Name": "SD 2",
         "Address": "-",
         "Contact1": "-",
@@ -928,7 +936,7 @@
         "Balance": "0"
     },
     {
-        "No": "117",
+        "No": "118",
         "Supplier_Name": "SHABAN BHAI",
         "Address": "-",
         "Contact1": "-",
@@ -936,7 +944,7 @@
         "Balance": "50550"
     },
     {
-        "No": "118",
+        "No": "119",
         "Supplier_Name": "SHABIR",
         "Address": "-",
         "Contact1": "-",
@@ -944,7 +952,7 @@
         "Balance": "0"
     },
     {
-        "No": "119",
+        "No": "120",
         "Supplier_Name": "SHAHANA GARMENT",
         "Address": "-",
         "Contact1": "-",
@@ -952,7 +960,7 @@
         "Balance": "14220"
     },
     {
-        "No": "120",
+        "No": "121",
         "Supplier_Name": "SHAMSHER ALAM",
         "Address": "-",
         "Contact1": "-",
@@ -960,15 +968,15 @@
         "Balance": "0"
     },
     {
-        "No": "121",
+        "No": "122",
         "Supplier_Name": "SHANKER HOSIERY AGENCY",
         "Address": "-",
         "Contact1": "-",
         "Contact2": "-",
-        "Balance": "164734"
+        "Balance": "214746"
     },
     {
-        "No": "122",
+        "No": "123",
         "Supplier_Name": "SHIFA COLLECTION { ZKIR BHAI }",
         "Address": "-",
         "Contact1": "8692002184",
@@ -976,7 +984,7 @@
         "Balance": "0"
     },
     {
-        "No": "123",
+        "No": "124",
         "Supplier_Name": "SHIFATULLAH",
         "Address": "-",
         "Contact1": "9324561064",
@@ -984,7 +992,7 @@
         "Balance": "0"
     },
     {
-        "No": "124",
+        "No": "125",
         "Supplier_Name": "SHUBHAS",
         "Address": "-",
         "Contact1": "-",
@@ -992,7 +1000,7 @@
         "Balance": "0"
     },
     {
-        "No": "125",
+        "No": "126",
         "Supplier_Name": "SHUEB BHAI",
         "Address": "-",
         "Contact1": "-",
@@ -1000,7 +1008,7 @@
         "Balance": "54034"
     },
     {
-        "No": "126",
+        "No": "127",
         "Supplier_Name": "SIMRAN { KOLKATA }",
         "Address": "-",
         "Contact1": "6291286282",
@@ -1008,7 +1016,7 @@
         "Balance": "73290"
     },
     {
-        "No": "127",
+        "No": "128",
         "Supplier_Name": "SIRAJ",
         "Address": "-",
         "Contact1": "-",
@@ -1016,7 +1024,7 @@
         "Balance": "129250"
     },
     {
-        "No": "128",
+        "No": "129",
         "Supplier_Name": "SJ { KOLKATA }",
         "Address": "-",
         "Contact1": "7278820336",
@@ -1024,7 +1032,7 @@
         "Balance": "65640"
     },
     {
-        "No": "129",
+        "No": "130",
         "Supplier_Name": "SOIDUL",
         "Address": "-",
         "Contact1": "-",
@@ -1032,7 +1040,7 @@
         "Balance": "0"
     },
     {
-        "No": "130",
+        "No": "131",
         "Supplier_Name": "SRI SS GARMENTS",
         "Address": "-",
         "Contact1": "-",
@@ -1040,7 +1048,7 @@
         "Balance": "0"
     },
     {
-        "No": "131",
+        "No": "132",
         "Supplier_Name": "TAIBA GARMENTS { IMRAN }",
         "Address": "-",
         "Contact1": "-",
@@ -1048,7 +1056,7 @@
         "Balance": "8540"
     },
     {
-        "No": "132",
+        "No": "133",
         "Supplier_Name": "TAUSIF",
         "Address": "-",
         "Contact1": "-",
@@ -1056,7 +1064,7 @@
         "Balance": "0"
     },
     {
-        "No": "133",
+        "No": "134",
         "Supplier_Name": "TEJAS  CREATION",
         "Address": "-",
         "Contact1": "9819601863",
@@ -1064,7 +1072,7 @@
         "Balance": "0"
     },
     {
-        "No": "134",
+        "No": "135",
         "Supplier_Name": "TOP ONE CREATIONS",
         "Address": "-",
         "Contact1": "-",
@@ -1072,23 +1080,23 @@
         "Balance": "0"
     },
     {
-        "No": "135",
+        "No": "136",
         "Supplier_Name": "UI",
         "Address": "-",
         "Contact1": "-",
         "Contact2": "-",
-        "Balance": "143295"
+        "Balance": "73795"
     },
     {
-        "No": "136",
+        "No": "137",
         "Supplier_Name": "UM TRADERS { WASAMA }",
         "Address": "AHMADABAAD",
         "Contact1": "-",
         "Contact2": "-",
-        "Balance": "9000"
+        "Balance": "65448"
     },
     {
-        "No": "137",
+        "No": "138",
         "Supplier_Name": "UMAIR INTERNATIONAL",
         "Address": "-",
         "Contact1": "9004204107",
@@ -1096,23 +1104,23 @@
         "Balance": "7400"
     },
     {
-        "No": "138",
+        "No": "139",
         "Supplier_Name": "V GOLD",
         "Address": "-",
         "Contact1": "-",
         "Contact2": "-",
-        "Balance": "70263"
+        "Balance": "87573"
     },
     {
-        "No": "139",
+        "No": "140",
         "Supplier_Name": "VIKKY KALEWADI",
         "Address": "-",
         "Contact1": "-",
         "Contact2": "-",
-        "Balance": "81787"
+        "Balance": "71787"
     },
     {
-        "No": "140",
+        "No": "141",
         "Supplier_Name": "WADOOD BHAI",
         "Address": "-",
         "Contact1": "-",
@@ -1120,15 +1128,15 @@
         "Balance": "5000"
     },
     {
-        "No": "141",
+        "No": "142",
         "Supplier_Name": "WASAMA MEHBOOB",
         "Address": "-",
         "Contact1": "8460006133",
         "Contact2": "9879134491",
-        "Balance": "0"
+        "Balance": "63360"
     },
     {
-        "No": "142",
+        "No": "143",
         "Supplier_Name": "WASIM DRESS [BADRUDDIN",
         "Address": "-",
         "Contact1": "-",
@@ -1136,15 +1144,15 @@
         "Balance": "68154"
     },
     {
-        "No": "143",
+        "No": "144",
         "Supplier_Name": "YD GARMENTS",
         "Address": "-",
         "Contact1": "-",
         "Contact2": "-",
-        "Balance": "632142"
+        "Balance": "649981"
     },
     {
-        "No": "144",
+        "No": "145",
         "Supplier_Name": "ZAHIR BHAI AHMEDABAD",
         "Address": "-",
         "Contact1": "9510079354",
@@ -1152,7 +1160,7 @@
         "Balance": "0"
     },
     {
-        "No": "145",
+        "No": "146",
         "Supplier_Name": "ZRRAR",
         "Address": "-",
         "Contact1": "-",
